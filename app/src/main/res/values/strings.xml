@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Saif Rafat</string>
+    <string name="Yellow_star">Yellow star</string>
+    <string name="bio">Hi,This is Saif Rafat.\nI am a student of Computer Science in RU.\nThis is my first test app.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="Done">Done</string>
+</resources>
